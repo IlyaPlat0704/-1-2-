@@ -1,0 +1,29 @@
+h1{
+color: red;
+padding-left: 100px;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+ color: rgb(225, 0, 255);
+}
+body{
+    background-color: #ffffff;
+}
+
+img{
+    padding-left: 50%;
+}
+
+h1{
+    padding-left: 50%;   
+}
+h2{
+    padding-left: 50%;
+}
+h3{
+    padding-left: 50%;
+}
